@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 Widget appBarMain(BuildContext context) {
@@ -34,6 +33,6 @@ TextStyle simpleTextFieldStyle() {
 TextStyle mediumTextStyle() {
   return TextStyle(
     color: Colors.white,
-    fontSize: 15
+    fontSize: 17
   );
 }
